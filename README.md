@@ -1,4 +1,4 @@
-# MinimalMartlet
+# QoL Magisk/KSU Module
 A magisk/KSU "quality of life" module (similar to minecraft QoL mods) designed to provide basic tweaks that improve the quality of life of the device that many modules sometimes fail to do.
 
 The module is based on Minimal Butter, but adapted for all devices without brand limitations, at least Android 11 to 15.
