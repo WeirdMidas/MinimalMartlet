@@ -9,6 +9,3 @@ The module is based on Minimal Butter, but adapted for all devices without brand
 - Disabled Logs/Debugging that are not useful to the user.
 - Some battery optimizations, such as throttling modern, rescheduling system services for later, and the encoder using less power to play videos.
 - More to be added in the future. Remember that only QoL adjustments will be added here, no extreme adjustments.
-
-### Credits
-To the artist of the art I got from Pinterest, sorry for not leaving his or her name here.
