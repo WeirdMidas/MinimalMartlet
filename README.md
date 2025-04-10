@@ -8,4 +8,5 @@ The module is based on Minimal Butter, but adapted for all devices without brand
 - Android's default Battery Saver Mode adjusted to be more power-saving, without penalizing device performance.
 - Disabled Logs/Debugging that are not useful to the user.
 - Some battery optimizations, such as throttling modern, rescheduling system services for later, and the encoder using less power to play videos.
+- Prevent Android from allowing Background Apps to use more resources than they are originally allowed to.
 - More to be added in the future. Remember that only QoL adjustments will be added here, no extreme adjustments.
