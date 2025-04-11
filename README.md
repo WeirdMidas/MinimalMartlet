@@ -3,7 +3,7 @@ A magisk/KSU "quality of life" module (similar to minecraft QoL mods) designed t
 
 The module is based on Minimal Butter, but adapted for all devices without brand limitations, at least Android 11 to 15.
 
-Note: Due to some failures in my system (some parameters do not appear), some features were removed. I hope that those who are slow will understand.
+Note: Due to some failures in my system (some parameters do not appear), some features were removed. I hope whoever is reading this understands.
 
 ## Features.
 - Disabled Logs/Debugging that are not useful to the user.
