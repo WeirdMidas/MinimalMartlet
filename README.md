@@ -3,11 +3,9 @@ A magisk/KSU "quality of life" module (similar to minecraft QoL mods) designed t
 
 The module is based on Minimal Butter, but adapted for all devices without brand limitations, at least Android 11 to 15.
 
-## Features
-- Improved Doze Mode. Aggressive, but still allowing messages and notifications to be delivered to the user.
-- Android's default Battery Saver Mode adjusted to be more power-saving, without penalizing device performance.
+Note: Due to some failures in my system (some parameters do not appear), some features were removed. I hope that those who are slow will understand.
+
+## Features.
 - Disabled Logs/Debugging that are not useful to the user.
 - Some battery optimizations, such as throttling modern, rescheduling system services for later, and the encoder using less power to play videos.
-- Prevent Android from allowing Background Apps to use more resources than they are originally allowed to.
-- Complete activation of Zygote Prefork for all devices with different amounts of memory.
 - More to be added in the future. Remember that only QoL adjustments will be added here, no extreme adjustments.
